@@ -1,4 +1,4 @@
-# EduSys API
+# EduSys API (Node.js)
 
 **This project is a RESTful API server built with Node.js, Express.js, and MongoDB. It provides endpoints to manage a system for organizing children, classes, and teachers in an educational institution.**
 
