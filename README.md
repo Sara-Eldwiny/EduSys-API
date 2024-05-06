@@ -1,5 +1,6 @@
 # EduSys API
-# This project is a RESTful API server built with Node.js, Express.js, and MongoDB. It provides endpoints to manage a system for organizing children, classes, and teachers in an educational institution.
+
+**This project is a RESTful API server built with Node.js, Express.js, and MongoDB. It provides endpoints to manage a system for organizing children, classes, and teachers in an educational institution.**
 
 ## Key Features:
 __Children Management__: Allows users to add, update, retrieve, and delete information about children, including their full name, age, level, and address details.
