@@ -3,13 +3,18 @@
 
 ## Key Features:
 __Children Management__: Allows users to add, update, retrieve, and delete information about children, including their full name, age, level, and address details.
+
 __Class Management__: Provides functionalities to handle classes, including adding new classes, updating class information, deleting classes, and retrieving information about classes. Each class has a supervisor and a list of enrolled children.
+
 __Teacher Management__: Offers endpoints to manage teachers, including adding new teachers, updating teacher information, and deleting teachers. Teachers can also be designated as supervisors for classes.
+
 __Relationships__: Establishes relationships between classes, teachers, and children, enabling retrieval of related data such as children in a class or the supervisor of a class.
 
 ## Technologies Used:
 __Express.js__: A fast, minimalist web framework for Node.js used to build robust APIs.
+
 __MongoDB__: A NoSQL database used to store and manage data related to children, classes, and teachers.
+
 __Mongoose__: An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a straightforward schema-based solution to model application data.
 
 ## Purpose:
